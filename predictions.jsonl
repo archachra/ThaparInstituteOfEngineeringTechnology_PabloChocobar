@@ -1,0 +1,6 @@
+{"clip_id": "07092", "prediction": "BOOK", "top5": ["BOOK", "MEDICINE", "WANT", "PAPER", "PAINT"], "confidence": 0.2129, "latency_ms": 2.03, "landmark_ms_per_frame": 20.44}
+{"clip_id": "07093", "prediction": "BOOK", "top5": ["BOOK", "FINE", "WHAT", "MOTHER", "COLOR"], "confidence": 0.3856, "latency_ms": 1.74, "landmark_ms_per_frame": 20.06}
+{"clip_id": "07095", "prediction": "BOOK", "top5": ["BOOK", "FAMILY", "WANT", "MANY", "TIME"], "confidence": 0.0963, "latency_ms": 1.69, "landmark_ms_per_frame": 21.09}
+{"clip_id": "07072", "prediction": "BOOK", "top5": ["BOOK", "FINE", "WANT", "COLOR", "FAMILY"], "confidence": 0.167, "latency_ms": 0.82, "landmark_ms_per_frame": 21.81}
+{"clip_id": "17730", "prediction": "DRINK", "top5": ["DRINK", "COUSIN", "STUDY", "FISH", "COW"], "confidence": 0.2014, "latency_ms": 1.36, "landmark_ms_per_frame": 24.4}
+{"clip_id": "17713", "prediction": "DRINK", "top5": ["DRINK", "COUSIN", "COMPUTER", "COW", "FULL"], "confidence": 0.3953, "latency_ms": 1.2, "landmark_ms_per_frame": 24.07}

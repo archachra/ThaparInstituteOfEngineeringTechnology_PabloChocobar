@@ -1,0 +1,11 @@
+.venv/
+data/raw/
+data/landmarks/
+data/manifest.json
+data/*.log
+exp/
+clips/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

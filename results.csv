@@ -1,0 +1,7 @@
+metric,target,measured,unit,device,runtime,pass
+top1_accuracy,>=70,55.04,%,"Apple M4 (MacBook), CPU","ONNX Runtime INT8 (CPU, 1 thread)",False
+latency_p95,<=50,0.145,ms,"Apple M4 (MacBook), CPU","ONNX Runtime INT8 (CPU, 1 thread)",True
+model_size,<=25,0.459,MB,"Apple M4 (MacBook), CPU","ONNX Runtime INT8 (CPU, 1 thread)",True
+accuracy_drop_robustness,<=5,3.1,pt,"Apple M4 (MacBook), CPU","ONNX Runtime INT8 (CPU, 1 thread)",True
+avg_power,<=500,,mW,"Apple M4 (MacBook), CPU","ONNX Runtime INT8 (CPU, 1 thread)",
+thermal_drift_10min,<=20,,%,"Apple M4 (MacBook), CPU","ONNX Runtime INT8 (CPU, 1 thread)",

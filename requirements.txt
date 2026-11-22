@@ -1,0 +1,9 @@
+numpy
+opencv-python
+mediapipe
+onnxruntime
+# training / export only:
+torch
+onnx
+onnxscript
+pytest
